@@ -4,7 +4,7 @@ Using this package will authenticate users through their GitHub account by check
 
 To get the package clone it or use composer:
 ```bash
-composer require Codepunker\LoginWithGithub
+composer require Codepunker\loginwithgithub
 ```
 
 #### [To learn more you can check out the tutorial on my website](https://www.codepunker.com/blog/login-with-github-using-php)
