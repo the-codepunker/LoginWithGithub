@@ -1,6 +1,6 @@
 {
-    "name": "Codepunker/LoginWithGithub",
-    "description" : "Codepunker/LoginWithGithub is a lightweight user authenticator that exploits the github api",
+    "name": "codepunker/loginwithgithub",
+    "description" : "codepunker/loginwithgithub is a lightweight user authenticator that exploits the github api",
     "keywords": ["php", "github", "login"],
     "license": "MIT",
     "homepage": "https://codepunker.com",

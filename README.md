@@ -6,3 +6,5 @@ To get the package clone it or use composer:
 ```bash
 composer require Codepunker\LoginWithGithub
 ```
+
+#### [To learn more you can check out the tutorial on my website](https://www.codepunker.com/blog/login-with-github-using-php)
