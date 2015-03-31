@@ -13,7 +13,7 @@
         }
     ],
     "support": {
-        "forum": "https://codepunker.com",
+        "forum": "https://www.codepunker.com/blog/login-with-github-using-php",
         "issues": "https://github.com/the-codepunker/LoginWithGithub"
     },
     "require": {
